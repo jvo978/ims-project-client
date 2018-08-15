@@ -21,8 +21,8 @@ As a User, I want to add new items to my inventory, because new item is requeste
 https://imgur.com/a/O8VqNwn
 
 <h2> Repositories for application</h2>
-<p>https://github.com/Team-Zero-Errors/ims-project-api</p>
-<p>https://github.com/Team-Zero-Errors/ims-project-client</p>
+<p>https://github.com/jvo978/ims-project-api</p>
+<p>https://github.com/jvo978/ims-project-client</p>
 
 <h2>How it Works</h2>
 <p>After user logins in, all items are automatically displayed for that specific
@@ -37,7 +37,7 @@ removed from the inventory list.</p>
 <h2>Deployed Sites</h2>
 https://ims-project-backend.herokuapp.com
 <br>
-https://team-zero-errors.github.io/ims-project-client/
+https://jvo978.github.io/ims-project-client/
 
 <h2>What technologies were used:</h2>
 <ul>
