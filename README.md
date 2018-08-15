@@ -35,7 +35,7 @@ populated into the inventory list. If the user deletes and item it will be
 removed from the inventory list.</p>
 
 <h2>Deployed Sites</h2>
-https://ims-project-api.herokuapp.com
+https://ims-project-backend.herokuapp.com
 <br>
 https://team-zero-errors.github.io/ims-project-client/
 
